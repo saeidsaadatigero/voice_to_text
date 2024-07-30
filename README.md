@@ -1,7 +1,5 @@
 # NLP ChatBot Voice To Text
 
-This code is a Python script designed to create a voice-based chatbot using speech recognition and text-to-speech capabilities. It leverages several libraries, including PyTorch, Transformers, SpeechRecognition, gTTS (Google Text-to-Speech), and playsound. Here's a detailed breakdown of its components and functionality:
-
 ### Breakdown of the Code
 
 1. **Library Installation**:
